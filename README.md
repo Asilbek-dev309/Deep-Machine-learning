@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Asilbek-dev309
+- 👋 Hi, I’m  Asilbek
 - I'm 18 years old
 - 👀 I’m interested in Data Sscience
 - 🌱 I’m currently learning Data science
-- 📫 How to reach me @asilbekjon0114@gmail.com
+- 📫 How to reach me asilbekjon0114@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
